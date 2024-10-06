@@ -171,7 +171,7 @@ section.after {
   font-size: 1.5rem;
   font-family: 'Poppins', sans-serif;
   text-align: center;
-  margin: 0;
+  margin-bottom: -80px;
   line-height: 70px;
   -webkit-user-select: halaman1;
 }
